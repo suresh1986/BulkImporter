@@ -1,0 +1,21 @@
+{
+    "userData": {
+        "role": "user",
+        "name": "Savior Connect",
+        "username": "saviorconnect",
+        "email": "steven@saviorconnect.com",
+        "website": "https://saviorconnect.com",
+        "bio": "Social media that makes a difference!  Join the premiere social media network for Christians now!  It's free!",
+        "profileImages": {
+            "avatar": "7Ns6rtiI_400x400.jpg",
+            "background": "1500x500.jpg"
+        },
+        "networks": {
+            "facebook": "saviorconnect",
+            "twitter": "saviorconnect"
+        },
+        "timezone": "Pacific/Auckland",
+        "language": "en",
+        "private": false
+    }
+}

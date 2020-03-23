@@ -1,0 +1,12 @@
+{
+    "imageData": {
+        "title": "Genesis 1:1 KJV",
+        "description": "In the beginning God created the heaven and the earth.  Genesis 1:1 King James Version",
+        "nsfw": false,
+        "category": {
+            "name": "Genesis",
+            "urlKey": "genesis",
+            "description": "Scripture media created from the book of Genesis in the Bible."
+        }
+    }
+}
